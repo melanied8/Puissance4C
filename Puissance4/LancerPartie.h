@@ -1,0 +1,6 @@
+#ifndef LANCERPARTIE_H_INCLUDED
+#define LANCERPARTIE_H_INCLUDED
+
+void LancerPartie();
+
+#endif // LANCERPARTIE_H_INCLUDED
