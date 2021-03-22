@@ -1,5 +1,5 @@
 # Puissance 4 en C
-IUT Paris Descartes - 2019 - Enseignant : ZIANE Mikal. </br>
+IUT Paris Descartes - 2020 - Enseignant : ZIANE Mikal. </br>
 Dans le cadre du cours d'algorithme, j'ai dû coder un puissance 4 en langage C. </br>
 
 *Remarque : Beaucoup de fonctions propres au C++ ont été utilisées dans le programme*.
