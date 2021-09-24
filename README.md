@@ -1,4 +1,4 @@
-# Puissance 4 en C
+# Puissance 4 en C/C++
 IUT Paris Descartes - 2020 - Enseignant : ZIANE Mikal. </br>
 Dans le cadre du cours d'algorithme, j'ai dû coder un puissance 4 en langage C. </br>
 
